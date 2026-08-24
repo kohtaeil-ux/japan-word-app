@@ -1,0 +1,20 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "내가 쓰려고 만든 일본 낱말카드",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "tapstudy",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.tabstudy.app",
+  "categories": [
+    "books &amp; reference",
+    "education",
+    "entertainment",
+    "lifestyle",
+    "travel"
+  ],
+  "lang": "ko"
+}
